@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(Hashing main.cpp
         STDEXCEPT.cpp
         inheritance.cpp
-        "operator overloading.cpp")
+        "operator overloading.cpp"
+        "longest substring in string .cpp")
